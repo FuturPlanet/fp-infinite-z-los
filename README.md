@@ -1,4 +1,4 @@
-A patch for the famos Levels module by theripper93
+A patch for the famos Levels module by theripper93!
 Levels module here: https://github.com/theripper93/Levels
 
 This module allows for an alternative token-vison, that is more readbly from the top-down perspective. As described here in the bottom picture.
