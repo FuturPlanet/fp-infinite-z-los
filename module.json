@@ -1,0 +1,32 @@
+{
+  "id": "fp-infinite-z-los",
+  "title": "Levels: Infinite Z LOS",
+  "description": "Allows an alternative token-vison more readbly from the top-down perspective.",
+  "version": "1.0.0",
+  "manifest": "https://github.com/FuturPlanet/fp-infinite-z-los/releases/latest/download/module.json",
+  "download": "https://github.com/FuturPlanet/fp-infinite-z-los/releases/download/1.0.0/module.zip",
+  "authors": [
+    {
+      "name": "Futur Planet"
+    }
+  ],
+  "esmodules": [
+    "main.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "levels",
+        "type": "module"
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module"
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  }
+}
