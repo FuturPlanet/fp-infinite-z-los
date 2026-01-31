@@ -8,3 +8,5 @@ Oiginal Vision:
 
 New Vision:
 <img width="2048" height="1079" alt="image" src="https://github.com/user-attachments/assets/cbb0023d-0b20-4151-ae9a-95c8fc61dcf1" />
+
+This aims to combat the confusing vison where you can't see tokens at many vertical angles, but the background from all vertical angels, which many of my players find very confusing.
